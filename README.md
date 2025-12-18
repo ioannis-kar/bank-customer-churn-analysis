@@ -1,6 +1,7 @@
 #Bank customer churn analysis using SQL and Tableau
 
  Project Overview
+
 This project analyzes customer churn for a retail bank using SQL and Tableau.
 The goal is to identify patterns and risk factors associated with customer attrition
 and provide actionable business recommendations.
