@@ -1,5 +1,4 @@
-#Bank customer churn analysis
-End-to-end customer churn analysis using SQL and Tableau
+#Bank customer churn analysis using SQL and Tableau
 
  Project Overview
 This project analyzes customer churn for a retail bank using SQL and Tableau.
