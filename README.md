@@ -1,4 +1,4 @@
-#Bank customer churn analysis using SQL and Tableau
+Bank customer churn analysis using SQL and Tableau
 
  Project Overview
 
